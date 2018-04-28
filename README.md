@@ -1,9 +1,9 @@
 # Week-9-Project-Honeypot
 
 1. Which Honeypot(s) you deployed?
-  * Dionaea
-  * Snort
-  * Kippo
+    * Dionaea
+    * Snort
+    * Kippo
 2. Any issues you encountered:
   * Nothing. The instructions were very clear.
 3. Summary:
