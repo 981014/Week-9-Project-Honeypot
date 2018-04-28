@@ -5,10 +5,10 @@
     * Snort
     * Kippo
 2. Any issues you encountered:
-  * Nothing. The instructions were very clear.
+    * Nothing. The instructions were very clear.
 3. Summary:
-  * Number of Attacks: 312
-  * Top Countries: Russia, China, Poland, USA
-  * Top Honey Pots: Dionaea (232), Snort (65), Kippo (15)
+    * Number of Attacks: 312
+    * Top Countries: Russia, China, Poland, USA
+    * Top Honey Pots: Dionaea (232), Snort (65), Kippo (15)
 4. Any unresolved questions raised by the data collected:
-  * How do I determine which attack is a malware?
+    * How do I determine which attack is a malware?
