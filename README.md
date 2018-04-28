@@ -12,3 +12,5 @@
     * Top Honey Pots: Dionaea (232), Snort (65), Kippo (15)
 4. Any unresolved questions raised by the data collected:
     * How do I determine which attack is a malware?
+
+![](https://github.com/981014/Week-9-Project-Honeypot/blob/master/Honey%20Pot.gif?raw=true)
